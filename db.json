@@ -1,58 +1,8 @@
 {
-    "messages": [
+    "loanBalances": [
         {
-            "id": "328a3d70-ce90-4674-96dd-7e26310a561b",
-            "title": "Extension of School Break",
-            "postedOn": "2020-04-14 15:03:05",
-            "content": "Please note that the school break has been extended for another 3 weeks starting on the 14th April 2020 until 5th May 2020. All administrative offices shall remain closed until this day. This had come as a Presidential initiative so as to contain the COVID-19 Pandemic. We shall communicate later when the students will be reporting."
-        },
-        {
-            "id": "dbef7668-e6e3-4052-885f-92e6b45fb7aa",
-            "title": "Schools closed due to COVID-19",
-            "content": "The President and the government of Uganda made an executive decision to close all schools and public universities. Due to this executive decision passed, we have have closed the school for the next 30days from 20th February 2020. We therefore request all parents to come and pick their children on this very day starting 9am. All parents are encouraged to come with valid identifications.",
-            "primaryPhotoUrl": "https://cdn.abcotvs.com/dip/images/5537467_schoolclosed.jpg?w=1280&r=16%3A9",
-            "postedOn": "2020-03-19 09:10:23"
-        },
-        {
-            "id": "f39504ed-a950-4dfc-b72d-e2ff21262105",
-            "title": "Mid term exams Begin",
-            "content": "The students are starting their mid-term exams on 9th March 2020. S1 will begin their exams on the 13th March 2020. This is because they began they started school late. S5 however will not being doing their mid-term exams since they started schools late. I have attached a schedule for the exams. Please do pray for the students and wish them the best of luck. Mr. John Doe, Director of Studies",
-            "attachments": [
-                {
-                    "id": "54d0290b-62c6-4367-9be2-7e33a9f651a9",
-                    "contentType": "application/pdf",
-                    "name": "2020 Term I mid-term schedule",
-                    "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
-                }
-            ],
-            "postedOn": "2020-03-16 12:36:00"
-        },
-        {
-            "id": "b27a5ded-93cd-4449-82ea-5d39420912f9",
-            "title": "Thank you for attending PTA Meeting",
-            "content": "On behalf of the board of governors I would like to thank you for attending the PTA annual neral meeting in large numbers. The meeting was held at the school's main hall on the 27th of February 2020. The meeting was fruitful and a number of items have been resolve. We were also able to appoint a new PTA committee to foresee the works done by the school administration. Please find attached the minutes and the newly appointed committee members.",
-            "postedOn": "2020-02-28 11:14:09",
-            "primaryPhotoUrl": "https://www.softpower.ug/wp-content/uploads/2019/11/Makerere-Council-Swearing-In-NUEI-Rep-Students-Disciplinary-Committee-1stNov2019-Story.jpeg",
-            "attachments": [
-                {
-                    "id": "d488f50f-ba76-4f6b-a178-317680487a75",
-                    "name": "PTA Annual General Meeting 2020",
-                    "contentType": "application/pdf",
-                    "url": "http://www.pdf995.com/samples/pdf.pdf"
-                },
-                {
-                    "id": "2e678bbf-0e23-4c79-adb0-c58f0fe5df81",
-                    "name": "PTA 2020/2021 Committee selection",
-                    "contentType": "image/jpg",
-                    "url": "https://umpcu.files.wordpress.com/2017/07/umpcu-board-members1.jpg"
-                }
-            ]
-        },
-        {
-            "id": "8ae77923-13ff-4bed-b3d3-852e083b8e16",
-            "title": "PTA annual general meeting Reminder",
-            "content": "We are kindly reminding you not miss this year's annual general meeting to be held on 27th Feb 2020 starting 9am at the school's main hall.",
-            "postedOn": "20202-02-24 16:20:00"
+            "personId": "b3248899-cf35-44e0-03aa-08d84dd66872", // the ID from the CRM
+            "balance": 0.0 //value should be a double
         }
     ]
 }
