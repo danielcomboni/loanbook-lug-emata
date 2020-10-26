@@ -1,7 +1,7 @@
 {
     "loanBalances": [
         {
-            "personId": "b3248899-cf35-44e0-03aa-08d84dd66872",
+            "id": "b3248899-cf35-44e0-03aa-08d84dd66872",
             "balance": 0.0 
         }
     ]
