@@ -8,6 +8,10 @@
         {
             "personId": "7c02ae44-c8af-4a26-d228-08d871a70ef0",
             "balance": 500000.00
+        },
+        {
+            "personId": "8e497c9f-1e36-4275-6e09-08d87b15fd42",
+            "balance": 0.00
         }
     ]
 }
