@@ -17,10 +17,6 @@
         {
             "personId":"cf1e0f69-9c06-4fd6-6e10-08d87b15fd42",
             "balance": 100000.00
-        },
-        {
-            "personId":"8e497c9f-1e36-4275-6e09-08d87b15fd42",
-            "balance": 150000.00
         }
     ]
 }
